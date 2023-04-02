@@ -1,7 +1,8 @@
-# repositoryname
-additional content to extend [Aurora](https://aurorabuilder.com/), by yourname
+# dragonlance
 
-index url: https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index
+additional content to extend [Aurora](https://aurorabuilder.com/), by raistlin789
+
+index url: https://raw.githubusercontent.com/raistlin789/dragonlance_fixes_aur/master/dragonlance.index
 
 ---
 
