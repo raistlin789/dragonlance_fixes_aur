@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Dragonlance</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="draonlance.index" url="https://raw.githubusercontent.com/raistlin789/dragonlance_fixes_aur/master/dragonlance.index" />
 		</update>
 	</info>
 	<files>
